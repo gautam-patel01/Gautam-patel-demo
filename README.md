@@ -1,7 +1,7 @@
-# 💰 EMI MASTER - Loan Calculator & Prepayment Simulator
-### 🏫 KL University | Freshman Engineering Department
+💰 EMI MASTER - Loan Calculator & Prepayment Simulator
+🏫 KL University | Freshman Engineering Department
 
-## 👥 Team Details (Batch 17) - Section-08
+ 👥 Team Details (Batch 17) - Section-08
 | Registration No. | Student Name |
 
 2500032739 -> Gautam Kumar
